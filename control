@@ -1,0 +1,9 @@
+Package: com.fortysixandtwo.activ8rfix
+Name: activ8rfix
+Depends: mobilesubstrate, libactivator, firmware (>=8.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A simple method wrapper to fix application launch crashes in Activator on iOS8.
+Maintainer: magn2o
+Author: magn2o
+Section: Tweaks
